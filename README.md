@@ -16,4 +16,5 @@ This is a project aimed to predict which team will by the 10 minute mark. You ca
 ## Results
 Even though the accuracy is only about 73%, this might be attributed to the random events throughout a game that are not present in the data collected. These unaccounted events can be a player disconnecting or just post 10 minute mistakes.
 
-The image below shoes the confusion 
+The image below shoes the confusion matrix for the test set.
+[!alt text](https://github.com/AReyH/league_of_legends_win_prediction/blob/main/images/cm_1.png)
