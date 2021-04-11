@@ -9,6 +9,11 @@ This is a project aimed to predict which team will by the 10 minute mark. You ca
 - Selected features based on feature correlation and feature importance.
 - Obtained a 73% accuracy only using a select number of features.
 
+## Requirements
+- **Python Version:** 3.7.10
+- **Packages:** Numpy, Pandas, Sklearn, Matplotlib, Seaborn.
+
 ## Results
 Even though the accuracy is only about 73%, this might be attributed to the random events throughout a game that are not present in the data collected. These unaccounted events can be a player disconnecting or just post 10 minute mistakes.
-Several models were in order to see which one performed the best. 
+
+The image below shoes the confusion 
