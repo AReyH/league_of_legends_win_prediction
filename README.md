@@ -20,3 +20,9 @@ The image below shoes the confusion matrix for the test set.
 
 
 ![alt text](https://github.com/AReyH/league_of_legends_win_prediction/blob/main/images/cm_1.png)
+
+### PCA 
+Using PCA with n_components = 2 to reduce the dimensions shows an overview of the data separation.
+
+
+![alt text](https://github.com/AReyH/league_of_legends_win_prediction/blob/main/images/PCA_decision.png)
